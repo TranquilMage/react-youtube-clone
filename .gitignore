@@ -1,0 +1,64 @@
+/node_modules
+bundle.js
+npm-debug.log
+### Ouput Directories
+public/
+./build/
+dist/
+./dev/
+coverage/
+docs/
+
+### Jenkins test results
+test-results.xml
+
+### JetBrains IDEs ###
+/*.iml
+
+## Project Files
+# Directory-based project format:
+.idea/
+
+# File-based project format:
+*.ipr
+*.iws
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+
+### SublimeText ###
+# Cache files for Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# Workspace files are user-specific
+*.sublime-workspace
+
+# Project Files
+*.sublime-project
+
+### OSX ###
+.DS_Store
+
+### Bower ###
+bower_components
+
+### Node ###
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+npm-debug.log
+# Logs
+logs
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage
+
+
+### Sass ###
+.sass-cache
+*.css.map
